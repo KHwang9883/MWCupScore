@@ -556,6 +556,7 @@ Partial Class Form1
         Me.Controls.Add(Me.LabelPingwei1)
         Me.Controls.Add(Me.LabelXuanshou)
         Me.Controls.Add(Me.LabelGuanqia)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.Name = "Form1"
         Me.Text = "MW杯结分程序"
         Me.ResumeLayout(False)
